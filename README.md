@@ -10,4 +10,3 @@ Distribution patterns were analyzed using histograms,
 Relationships between variables were studied using heatmap,
 Visualizations helped in understanding student AI impact trends.
 OUTCOME:- Successfully performed Exploratory Data Analysis and extracted meaningful insights using Python data visualization techniques.
-AUTHOR:- U. ANUSHA
